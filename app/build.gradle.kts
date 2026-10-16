@@ -11,7 +11,7 @@ plugins {
 }
 
 android {
-    namespace = "com.jeevankumar.jarvisauto"
+    namespace = "com.kododake.aabrowser"
     compileSdk = 37
 
     defaultConfig {
